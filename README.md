@@ -88,3 +88,8 @@ try {
 2. Open index.html in your browser
 3. Use the calculator by clicking on the buttons
 4. For complex calculations, enter numbers and operators in sequence
+
+## References
+
+- [Sgt Brunner Calculator](https://sgtbrunner.github.io/calculator/)
+- [General Assembly DOM Events Lab Solution](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/dom-events-lab-solution/)
